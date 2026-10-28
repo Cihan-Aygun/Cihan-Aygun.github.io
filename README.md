@@ -1,2 +1,5 @@
-# Cihan-Aygun.github.io
-Cihan Aygün — Yapay Zeka ve Yazılım Portföyü
+# Cihan Aygün
+
+Kişisel portföy sitesi.
+
+https://cihan-aygun.github.io
